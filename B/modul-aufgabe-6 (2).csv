@@ -1,0 +1,7 @@
+﻿Modul,Aufgabe,Verbindung
+PQ,"Pipeline, Achsen, Positionen",TMP → PQ → PP
+PP,"Verarbeitung, Pool‑Management",PQ → PP → RE
+PQ,"Rotation, Haltung",PP → PQ → HDF
+PP,"Routing, Sync",PQ → PP → LINK
+PQ,Achsen‑Motor,PP → PQ → AXIS
+PP,Output‑Motor,PQ → PP → Homepage

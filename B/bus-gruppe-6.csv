@@ -1,0 +1,7 @@
+﻿Bus,Gruppe,Station,Aufgabe
+NET,NET‑A,N1,Routing TMP‑A ↔ RE‑Ω1/Ω2
+NET,NET‑B,N2,Routing TMP‑B ↔ RE‑Ω3
+NET,NET‑C,N3,Routing TMP‑C/D/E/F ↔ RE‑Ω4/Ω5
+LINK,LINK‑A,L1,Routing HDF‑1 ↔ Homepage
+LINK,LINK‑B,L2,Routing HDF‑2/3 ↔ Homepage
+LINK,LINK‑C,L3,Routing HDF‑4/5/6 ↔ Homepage
