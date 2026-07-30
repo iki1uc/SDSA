@@ -1,0 +1,13 @@
+﻿Raum,Soll‑Name,Ist‑Name,Status
+REI,Eingang,❌ fehlt,MUSS gebaut werden
+REU,Ausgang,❌ fehlt,MUSS gebaut werden
+REG,Geo,reGEO,✔ korrekt
+REΩ,Omega,reOMG,✔ korrekt
+REP,PP,rePP,✔ korrekt
+REQ,PQ,rePQ,✔ korrekt
+RED,Deep,reD,✔ korrekt
+REY,Yield,reY,✔ korrekt
+REZ,Zero,reZ,✔ korrekt
+REO,Output,reO,✔ korrekt
+U4K,Universal,U4K,✔ Zusatz
+UHD,Universal,UHD,✔ Zusatz
